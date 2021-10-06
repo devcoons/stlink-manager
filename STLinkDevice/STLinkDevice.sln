@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STLinkDevice", "STLinkDevice.csproj", "{928C6D66-43FA-4FC7-A110-29E7BAACD17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928C6D66-43FA-4FC7-A110-29E7BAACD17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928C6D66-43FA-4FC7-A110-29E7BAACD17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928C6D66-43FA-4FC7-A110-29E7BAACD17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928C6D66-43FA-4FC7-A110-29E7BAACD17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54001E0E-59BD-42A5-93DD-9B969B45A153}
+	EndGlobalSection
+EndGlobal
